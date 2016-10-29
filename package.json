@@ -1,0 +1,23 @@
+{
+  "name": "express-in",
+  "version": "0.0.1",
+  "description": "check query and body params",
+  "keywords": [
+    "validation",
+    "validator",
+    "express",
+    "params",
+    "body",
+    "query"
+  ],
+  "main": "index.js",
+  "author": "Valentin Dubrovsky <spbclan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matroskin13/express-in.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "superhero-validator": "^1.2.0"
+  }
+}
