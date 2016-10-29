@@ -44,4 +44,4 @@ app.use(errorHandler(function(result, req, res, next) {
 
 ```
 
-more validators on Using [superhero-validator](https://github.com/matroskin13/superhero-validator)
+more validators on [superhero-validator](https://github.com/matroskin13/superhero-validator)
