@@ -1,5 +1,12 @@
 Validation body and query params. Using [superhero-validator](https://github.com/matroskin13/superhero-validator)
 
+## Install
+
+```console
+$ npm install --save express-in
+```
+
+## Usage
 
 ```js
 // validate query params
