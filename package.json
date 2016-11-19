@@ -1,6 +1,6 @@
 {
   "name": "express-in",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "check query and body params",
   "keywords": [
     "validation",
