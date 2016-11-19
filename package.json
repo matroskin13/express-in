@@ -18,6 +18,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "superhero-validator": "^1.2.0"
+    "superhero-validator": "^1.4.0"
   }
 }
